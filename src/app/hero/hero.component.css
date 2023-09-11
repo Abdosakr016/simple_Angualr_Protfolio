@@ -1,0 +1,28 @@
+#home {
+    background: url(./R.jpg);
+    background-size: cover;
+    height: 100vh;  
+    padding-top: 50px;
+}
+
+.table-cell {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.disply-table {
+    display: table;
+    height: 100vh;
+    text-align: center;
+}
+
+h1{
+    color: aliceblue;
+    font-size: 80px;
+    padding-left: 80px;
+}
+
+h2{
+    color: aliceblue;
+}

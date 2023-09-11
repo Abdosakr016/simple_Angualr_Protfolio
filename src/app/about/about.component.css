@@ -1,0 +1,11 @@
+*{
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+}
+
+.about_text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+}
